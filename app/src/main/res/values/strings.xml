@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mid_Exam_Amaallah_Bassam</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_mode">ModeActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_First">hello_fragment_First</string>
+    <string name="hello_fragment_Second">hello_fragment_Second</string>
+    <string name="hello_fragment_Thired">hello_fragment_Thired</string>
+    <string name="tab1">First</string>
+    <string name="tab2">Second</string>
+    <string name="tab3">Thired</string>
+    <string name="set_mode">Set Mode</string>
+    <string name="mode_light">Light</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_system">System</string>
+
+
+</resources>
